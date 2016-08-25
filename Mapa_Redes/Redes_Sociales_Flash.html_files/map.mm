@@ -891,7 +891,7 @@
 <cloud COLOR="#33ff00"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
-<node CREATED="1471742701094" FOLDED="true" ID="ID_1775387500" MODIFIED="1472130994623" POSITION="right" STYLE="bubble" TEXT="El Gobierno Venezolano en las Redes Sociales">
+<node CREATED="1471742701094" FOLDED="true" ID="ID_1775387500" MODIFIED="1472138930362" POSITION="right" STYLE="bubble" TEXT="El Gobierno Venezolano en las Redes Sociales">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <cloud COLOR="#cccccc"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
@@ -1340,6 +1340,23 @@
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font NAME="Arial Black" SIZE="14"/>
 </node>
+</node>
+<node CREATED="1472138358174" FOLDED="true" ID="ID_642187410" MODIFIED="1472138870002" STYLE="bubble" TEXT="Directorio de responsabilidad Social">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472138495958" ID="ID_494825786" MODIFIED="1472138500794" STYLE="bubble" TEXT="Es el Organo m&#xe1;ximo de aplicaci&#xf3;n de la Ley de Responsabilidad Social en radio televisi&#xf3;n y medios electr&#xf3;nicos (LRSRTVME)">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
+</node>
+<node CREATED="1472138752963" ID="ID_969313836" MODIFIED="1472138757175" STYLE="bubble" TEXT="El DRS rechaza de forma contundente cualquier intento desde los medios de difusi&#xf3;n y las llamadas redes sociales, dentro y fuera de Venezuela, de alterar la paz de la Rep&#xfa;blica mediante la emisi&#xf3;n planificada de campa&#xf1;as de rumores, mentiras, falsas informaciones y en especial, considera bochornoso que se involucre en dichas campa&#xf1;as a ni&#xf1;os, ni&#xf1;as y adolescentes.">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
+</node>
+<node CREATED="1472138778916" ID="ID_1714049094" MODIFIED="1472138786395" STYLE="bubble" TEXT="El DRS recuerda a todos los actores del espacio comunicacional que de acuerdo al art&#xed;culo 27 de la LRSRTVME la emisi&#xf3;n de mensajes que promueven la alteraci&#xf3;n del orden p&#xfa;blico, inciten o promuevan y/o hagan apolog&#xed;a al delito, o fomenten zozobra en la ciudadan&#xed;a, afecta los derechos comunicacionales del pueblo venezolano y constituyen il&#xed;citos administrativos e incluso penales de acuerdo a nuestro ordenamiento jur&#xed;dico.">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
+</node>
+<node CREATED="1472138867924" MODIFIED="1472138867924" TEXT="El DRS se declara en sesi&#xf3;n permanente y solicitar&#xe1; a la Comisi&#xf3;n Nacional de Telecomunicaciones los elementos t&#xe9;cnicos de monitorizaci&#xf3;n que permitan evaluar de forma objetiva el tratamiento que estos mensajes est&#xe1;n recibiendo en los medios sujetos de la ley, y actuar&#xe1; de acuerdo a sus atribuciones y de forma expedita, con los instrumentos establecidos en la Ley, en los casos que hubiere lugar."/>
 </node>
 </node>
 <node CREATED="1471711280886" FOLDED="true" ID="ID_1301831990" MODIFIED="1472136857857" POSITION="right" STYLE="bubble" TEXT="Influencia de las Redes Sociales en la Guerra de IV Generaci&#xf3;n">
