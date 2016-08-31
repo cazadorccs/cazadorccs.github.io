@@ -12,7 +12,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471646167546" FOLDED="true" ID="ID_516913495" MODIFIED="1472521706640" POSITION="right" STYLE="bubble">
+<node CREATED="1471646167546" FOLDED="true" ID="ID_516913495" MODIFIED="1472608926780" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -94,7 +94,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471648537722" FOLDED="true" ID="ID_784235881" MODIFIED="1472521703750" TEXT="Clasificaciones Emp&#xed;ricas">
+<node CREATED="1471648537722" FOLDED="true" ID="ID_784235881" MODIFIED="1472608924437" TEXT="Clasificaciones Emp&#xed;ricas">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471652119615" FOLDED="true" ID="ID_1643476601" MODIFIED="1472139324799" TEXT="Jan H. Kietzmann, Kristopher Hermkens, Ian P. McCarthy y Bruno S. Silvestre presentar en el a&#xf1;o 2011 un marco que define los medios sociales mediante el uso de Siete Bloques Funcionales:">
@@ -157,7 +157,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471659992565" FOLDED="true" ID="ID_1736605529" MODIFIED="1472521702483" TEXT="Prisma de Conversaci&#xf3;n">
+<node CREATED="1471659992565" FOLDED="true" ID="ID_1736605529" MODIFIED="1472608922558" TEXT="Prisma de Conversaci&#xf3;n">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471660042671" FOLDED="true" HGAP="62" ID="ID_1924922582" MODIFIED="1472139324796" TEXT="Definici&#xf3;n" VSHIFT="149">
@@ -272,7 +272,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471664764729" FOLDED="true" HGAP="73" ID="ID_1807604043" MODIFIED="1472521700069" TEXT="Bloques">
+<node CREATED="1471664764729" FOLDED="true" HGAP="73" ID="ID_1807604043" MODIFIED="1472608920097" TEXT="Bloques">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471664905454" FOLDED="true" ID="ID_490886494" MODIFIED="1472221383740" TEXT="Mercadeo Social">
@@ -618,7 +618,7 @@
 <node CREATED="1472219997633" LINK="http://www.ban.jo/" MODIFIED="1472219997633" TEXT="ban.jo"/>
 </node>
 </node>
-<node CREATED="1471664905454" FOLDED="true" ID="ID_366578845" MODIFIED="1472227197211" TEXT="Sitios de Trabajo Agradables">
+<node CREATED="1471664905454" FOLDED="true" ID="ID_366578845" MODIFIED="1472589637496" TEXT="Sitios de Trabajo Agradables">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1472226123816" FOLDED="true" ID="ID_1343055766" MODIFIED="1472226497839" TEXT="Goodreads">
@@ -830,10 +830,10 @@
 <node CREATED="1472226123921" LINK="http://gomiso.com/" MODIFIED="1472226123921" TEXT="gomiso.com"/>
 </node>
 </node>
-<node CREATED="1471664905454" ID="ID_746840690" MODIFIED="1472267439602" TEXT="Empresa">
+<node CREATED="1471664905454" FOLDED="true" ID="ID_746840690" MODIFIED="1472589680367" TEXT="Empresa">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1472266693038" FOLDED="true" ID="ID_1655183252" MODIFIED="1472267435651" TEXT="Socialcast">
+<node CREATED="1472266693038" FOLDED="true" ID="ID_1655183252" MODIFIED="1472589432820" TEXT="Socialcast">
 <node CREATED="1472266693046" ID="ID_1382758195" MODIFIED="1472267426335">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -865,7 +865,7 @@
 <node CREATED="1472266693074" MODIFIED="1472266693074" TEXT="tibbr es una red social para el trabajo, con lo que las personas, los archivos, las aplicaciones y las acciones juntos en una plataforma para que el trabajo se hace m&#xe1;s r&#xe1;pido."/>
 <node CREATED="1472266693078" LINK="http://www.tibbr.com/" MODIFIED="1472266693078" TEXT="tibbr.com"/>
 </node>
-<node CREATED="1472266693083" FOLDED="true" ID="ID_91988034" MODIFIED="1472266817106" TEXT="Telligent Enterprise">
+<node CREATED="1472266693083" FOLDED="true" ID="ID_91988034" MODIFIED="1472589599818" TEXT="Telligent Enterprise">
 <node CREATED="1472266693085" ID="ID_726511737" MODIFIED="1472266813320">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -881,7 +881,7 @@
 <node CREATED="1472266693086" MODIFIED="1472266693086" TEXT="Telligent Enterprise ofrece resultados de la empresa probada para algunas de las m&#xe1;s grandes comunidades en l&#xed;nea como Dell, Procter &amp; Gamble."/>
 <node CREATED="1472266693093" LINK="https://www.telligent.com/" MODIFIED="1472266693093" TEXT="https://www.telligent.com/"/>
 </node>
-<node CREATED="1472266693095" FOLDED="true" ID="ID_1077442987" MODIFIED="1472266763617" TEXT="Yammer">
+<node CREATED="1472266693095" FOLDED="true" ID="ID_1077442987" MODIFIED="1472589644657" TEXT="Yammer">
 <node CREATED="1472266693095" ID="ID_993297344" MODIFIED="1472266760831">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -897,7 +897,7 @@
 <node CREATED="1472266693095" MODIFIED="1472266693095" TEXT="Yammer es una red social empresarial que permite a los empleados a colaborar en todos los departamentos, geograf&#xed;as y aplicaciones de negocio."/>
 <node CREATED="1472266693099" LINK="http://www.yammer.com/" MODIFIED="1472266693099" TEXT="yammer.com"/>
 </node>
-<node CREATED="1472266693099" FOLDED="true" ID="ID_1825280474" MODIFIED="1472266742578" TEXT="Communote">
+<node CREATED="1472266693099" FOLDED="true" ID="ID_1825280474" MODIFIED="1472589657135" TEXT="Communote">
 <node CREATED="1472266693103" ID="ID_1297736094" MODIFIED="1472266735505">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -913,34 +913,824 @@
 <node CREATED="1472266693103" MODIFIED="1472266693103" TEXT="Communote es una soluci&#xf3;n de comunicaci&#xf3;n basada en proyectos y negocios orientados equipo.."/>
 <node CREATED="1472266693103" LINK="http://www.communote.com/" MODIFIED="1472266693103" TEXT="communote.com"/>
 </node>
+<node CREATED="1472589462184" FOLDED="true" ID="ID_1395481601" MODIFIED="1472589666052" TEXT="NewsGator es ahora Sitrion">
+<node CREATED="1472589462200" ID="ID_468657927" MODIFIED="1472589488296">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Sitrion.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_626983521" MODIFIED="1472139304696" TEXT="Wiki">
+<node CREATED="1472589462200" MODIFIED="1472589462200" TEXT="La compa&#xf1;&#xed;a ahora ofrece una oferta integrada que permite a los clientes crear un lugar de trabajo verdaderamente social y modernizaci&#xf3;n de los recursos humanos."/>
+<node CREATED="1472589462216" LINK="https://path.com/" MODIFIED="1472589462216" TEXT="https://path.com/"/>
+</node>
+<node CREATED="1472589462216" FOLDED="true" ID="ID_1539041039" MODIFIED="1472589676182" TEXT="Status.net">
+<node CREATED="1472589462216" ID="ID_1952293007" MODIFIED="1472589511856">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Statusnet.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472589462216" MODIFIED="1472589462216" TEXT="servicio de microblogging de c&#xf3;digo abierto que env&#xed;a las actualizaciones de estado en su red social."/>
+<node CREATED="1472589462216" LINK="http://status.net/" MODIFIED="1472589462216" TEXT="status.net"/>
+</node>
+<node CREATED="1472589462216" FOLDED="true" ID="ID_1955299235" MODIFIED="1472589678925" TEXT="Chatter">
+<node CREATED="1472589462216" ID="ID_938966273" MODIFIED="1472589536952">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/salesforce_chatter.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472589462216" MODIFIED="1472589462216" TEXT="Chatter es una forma novedosa de colaboraci&#xf3;n en el trabajo. Ya que obtiene autom&#xe1;ticamente la informaci&#xf3;n de estado sobre personas y proyectos importantes, Chatter facilita la conexi&#xf3;n con las personas y la informaci&#xf3;n que les es m&#xe1;s relevante."/>
+<node CREATED="1472589462231" LINK="http://www.salesforce.com/es/chatter/overview/" MODIFIED="1472589462231" TEXT="salesforce.com &gt; Es &gt; Chatter &gt; Overview"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_626983521" MODIFIED="1472595009929" TEXT="Wiki">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472594899118" FOLDED="true" ID="ID_1524103586" MODIFIED="1472595002985" TEXT="Wikispaces">
+<node CREATED="1472594899121" ID="ID_500105505" MODIFIED="1472594999972">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Wikispaces.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_475900944" MODIFIED="1472139304696" TEXT="Discusi&#xf3;n y Foros">
+<node CREATED="1472594899123" MODIFIED="1472594899123" TEXT="Wikispaces es un espacio de trabajo en l&#xed;nea se utiliza principalmente en las aulas ."/>
+<node CREATED="1472594899124" LINK="http://www.wikispaces.com/" MODIFIED="1472594899124" TEXT="wikispaces.com"/>
+</node>
+<node CREATED="1472594899127" FOLDED="true" ID="ID_582775519" MODIFIED="1472595005280" TEXT="Twiki">
+<node CREATED="1472594899128" ID="ID_1907713628" MODIFIED="1472594977119">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Twiki.gif" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472594899129" MODIFIED="1472594899129" TEXT="Es una soluci&#xf3;n flexible, potente y f&#xe1;cil de usar wiki de la empresa, la plataforma de colaboraci&#xf3;n empresarial, y la plataforma de aplicaciones web."/>
+<node CREATED="1472594899134" LINK="http://twiki.org//" MODIFIED="1472594899134" TEXT="twiki.org"/>
+</node>
+<node CREATED="1472594899135" FOLDED="true" ID="ID_1876205939" MODIFIED="1472595006157" TEXT="Wikia">
+<node CREATED="1472594899136" ID="ID_568168162" MODIFIED="1472594958828">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Wikia_icono.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472594899137" MODIFIED="1472594899137" TEXT="Wikia, Inc. es una empresa que proporciona un servicio de alojamiento gratuito de p&#xe1;ginas web basadas en la tecnolog&#xed;a wiki, bajo la filosof&#xed;a de la cooperaci&#xf3;n."/>
+<node CREATED="1472594899141" LINK="http://www.wikia.com/" MODIFIED="1472594899141" TEXT="wikia.com"/>
+</node>
+<node CREATED="1472594899142" FOLDED="true" ID="ID_663617381" MODIFIED="1472595007986" TEXT="Wikipedia">
+<node CREATED="1472594899143" ID="ID_816376193" MODIFIED="1472594921618">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Wikipedia.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472594899145" MODIFIED="1472594899145" TEXT="Wikipedia es una enciclopedia en l&#xed;nea de c&#xf3;digo abierto que proporciona una base de datos de art&#xed;culos sobre una amplia gama de temas."/>
+<node CREATED="1472594899148" LINK="https://www.wikipedia.org/" MODIFIED="1472594899148" TEXT="https://www.wikipedia.org/"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_475900944" MODIFIED="1472596614549" TEXT="Discusi&#xf3;n y Foros">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472596483570" FOLDED="true" ID="ID_634626143" MODIFIED="1472596612868" TEXT="Google Groups">
+<node CREATED="1472596483572" ID="ID_978246012" MODIFIED="1472596611014">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Google Groups.gif" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_771521352" MODIFIED="1472139304696" TEXT="Negocio">
+<node CREATED="1472596483574" MODIFIED="1472596483574" TEXT="Grupos de Google es un sistema de mensajer&#xed;a de grupo y la colaboraci&#xf3;n que permite a las redes de diferentes tama&#xf1;os para iniciar conversaciones de mensajes, crear."/>
+<node CREATED="1472596483578" LINK="http://groups.google.com/" MODIFIED="1472596483578" TEXT="groups.google.com"/>
+</node>
+<node CREATED="1472596483581" FOLDED="true" ID="ID_180000040" MODIFIED="1472596593751" TEXT="Facebook Groups">
+<node CREATED="1472596483581" ID="ID_1911733205" MODIFIED="1472596591747">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/groups-header.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472596483584" MODIFIED="1472596483584" TEXT="Grupos de Facebook hacen que sea f&#xe1;cil de conectar con conjuntos espec&#xed;ficos de personas, como la familia, compa&#xf1;eros de equipo o compa&#xf1;eros de trabajo. Los grupos son espacios dedicados donde puede compartir actualizaciones, fotos o documentos y mensajes de otros miembros del grupo. Tambi&#xe9;n puede seleccionar una de las tres opciones de privacidad para cada grupo se crea."/>
+<node CREATED="1472596483588" LINK="http://twiki.org/" MODIFIED="1472596483588" TEXT="twiki.org"/>
+</node>
+<node CREATED="1472596483589" FOLDED="true" ID="ID_649712570" MODIFIED="1472596572887" TEXT="Disboards">
+<node CREATED="1472596483590" ID="ID_1076520894" MODIFIED="1472596570913">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/disboards.gif" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472596483591" MODIFIED="1472596483591" TEXT="Los foros de discusi&#xf3;n DIS Disney."/>
+<node CREATED="1472596483592" LINK="http://www.disboards.com/" MODIFIED="1472596483592" TEXT="disboards.com"/>
+</node>
+<node CREATED="1472596483593" FOLDED="true" ID="ID_763915775" MODIFIED="1472596550407" TEXT="Bigboards">
+<node CREATED="1472596483596" ID="ID_1627352709" MODIFIED="1472596548185">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Bigboards.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472596483597" MODIFIED="1472596483597" TEXT="Para dar a los cient&#xed;ficos e ingenieros de datos (Big Data) la mejor experiencia de aprendizaje y la plataforma de desarrollo m&#xe1;s productivo."/>
+<node CREATED="1472596483600" LINK="http://bigboards.io/" MODIFIED="1472596483600" TEXT="bigboards.io"/>
+</node>
+<node CREATED="1472596483601" FOLDED="true" ID="ID_1421119654" MODIFIED="1472596526653" TEXT="Linqia">
+<node CREATED="1472596483602" ID="ID_1502588038" MODIFIED="1472596523520">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Linqia.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472596483603" MODIFIED="1472596483603" TEXT="Linqia es una plataforma de marketing influyente que est&#xe1; cambiando c&#xf3;mo las marcas piensan en sus programas de marketing de contenidos."/>
+<node CREATED="1472596483606" LINK="http://www.linqia.com/" MODIFIED="1472596483606" TEXT="linqia.com"/>
+</node>
+<node CREATED="1472596483607" FOLDED="true" ID="ID_556753108" MODIFIED="1472596505628" TEXT="4chan">
+<node CREATED="1472596483608" ID="ID_1456438732" MODIFIED="1472596502332">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/4chan.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472596483609" MODIFIED="1472596483609" TEXT="4chan es un tabl&#xf3;n de anuncios basados &#x200b;&#x200b;en im&#xe1;genes , donde los usuarios pueden publicar comentarios y compartir im&#xe1;genes."/>
+<node CREATED="1472596483615" LINK="http://www.4chan.org/" MODIFIED="1472596483615" TEXT="4chan.org"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_771521352" MODIFIED="1472598766636" TEXT="Negocio">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472597482376" FOLDED="true" ID="ID_225048234" MODIFIED="1472598765230" TEXT="LinkedIn">
+<node CREATED="1472597482377" ID="ID_762552713" MODIFIED="1472598763206">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/LinkedIn.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_1422603552" MODIFIED="1472139304696" TEXT="Redes de servicios">
+<node CREATED="1472597482379" MODIFIED="1472597482379" TEXT="LinkedIn , una red profesional, permite a sus miembros crear relaciones de negocios, b&#xfa;squeda de puestos de trabajo y encontrar clientes potenciales."/>
+<node CREATED="1472597482382" LINK="http://linkedin.com/" MODIFIED="1472597482382" TEXT="linkedin.com"/>
+</node>
+<node CREATED="1472597482385" FOLDED="true" ID="ID_235700216" MODIFIED="1472598749360" TEXT="Identified">
+<node CREATED="1472597482386" ID="ID_1745811551" MODIFIED="1472598746841">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Identified.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472597482387" MODIFIED="1472597482387" TEXT="Identified, un an&#xe1;lisis de los datos y la gran empresa, una tecnolog&#xed;a pioneros transformaci&#xf3;n de los datos sociales de Facebook en inteligencia profesional."/>
+<node CREATED="1472597482389" LINK="http://www.identified.com/" MODIFIED="1472597482389" TEXT="identified.com"/>
+</node>
+<node CREATED="1472597482391" FOLDED="true" ID="ID_399467355" MODIFIED="1472598731510" TEXT="BranchOut">
+<node CREATED="1472597482391" ID="ID_1187393678" MODIFIED="1472597645717">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/BranchOut.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472597482393" ID="ID_724642321" MODIFIED="1472597482393" TEXT="BranchOut permite a la gente a capturar y compartir momentos cotidianos en el lugar de trabajo a trav&#xe9;s de fotos, noticias y actualizaciones."/>
+<node CREATED="1472597482395" ID="ID_1290664776" LINK="https://branchout.com/" MODIFIED="1472597482395" TEXT="https://branchout.com/"/>
+</node>
+<node CREATED="1472597482396" FOLDED="true" ID="ID_1756551295" MODIFIED="1472597630418" TEXT="Viadeo">
+<node CREATED="1472597482398" ID="ID_385127085" MODIFIED="1472597627759">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Viadeo.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472597482399" MODIFIED="1472597482399" TEXT="Viadeo es una red social profesional dise&#xf1;ado para mejorar las perspectivas de carrera, descubrir oportunidades de negocio y crear identidades en l&#xed;nea."/>
+<node CREATED="1472597482401" LINK="http://www.viadeo.com/" MODIFIED="1472597482401" TEXT="viadeo.com"/>
+</node>
+<node CREATED="1472597482402" FOLDED="true" ID="ID_268930145" MODIFIED="1472597610340" TEXT="Plaxo">
+<node CREATED="1472597482403" ID="ID_1098877317" MODIFIED="1472597607618">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Plaxo.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472597482405" MODIFIED="1472597482405" TEXT="Plaxo es una libreta de direcciones en l&#xed;nea basado en la nube que se sincroniza , actualiza y unifica los contactos del usuario a trav&#xe9;s de m&#xfa;ltiples fuentes."/>
+<node CREATED="1472597482407" LINK="http://www.plaxo.com/" MODIFIED="1472597482407" TEXT="plaxo.com"/>
+</node>
+<node CREATED="1472597482408" FOLDED="true" ID="ID_773293238" MODIFIED="1472597585868" TEXT="XING">
+<node CREATED="1472597482410" ID="ID_1820354039" MODIFIED="1472597583012">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/XING.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472597482411" MODIFIED="1472597482411" TEXT="XING es una red social para profesionales de negocios para conectar y compartir ideas y proyectos, as&#xed; como encontrar un empleo adecuado."/>
+<node CREATED="1472597482413" LINK="http://www.xing.com/" MODIFIED="1472597482413" TEXT="xing.com"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_1422603552" MODIFIED="1472601095159" TEXT="Redes de servicios">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472600923863" FOLDED="true" ID="ID_199770413" MODIFIED="1472601093844" TEXT="99designs">
+<node CREATED="1472600923863" ID="ID_1036566653" MODIFIED="1472601092080">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/99designs.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_495524003" MODIFIED="1472139304696" TEXT="Comentarios y Valoraciones">
+<node CREATED="1472600923863" MODIFIED="1472600923863" TEXT="99designs es una empresa de dise&#xf1;o gr&#xe1;fico que crea logotipos, sitios web, aplicaciones, tarjetas de visita, cubiertas para libros, rotulaci&#xf3;n de veh&#xed;culos, y m&#xe1;s."/>
+<node CREATED="1472600923879" LINK="http://99designs.com/" MODIFIED="1472600923879" TEXT="99designs.com"/>
+</node>
+<node CREATED="1472600923879" FOLDED="true" ID="ID_1884099616" MODIFIED="1472601076734" TEXT="Amazon Mechanical Turk">
+<node CREATED="1472600923879" ID="ID_1210466026" MODIFIED="1472601074299">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/AmazonMT.jpg" height="68" width="150" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923879" MODIFIED="1472600923879" TEXT="Amazon Mechanical Turk es un mercado para el trabajo que requiere la inteligencia humana. El servicio Mechanical Turk ofrece a las empresas el acceso a una fuerza laboral diversa y escalable, bajo demanda y ofrece a los trabajadores una selecci&#xf3;n de miles de tareas para completar cuando sea conveniente."/>
+<node CREATED="1472600923894" LINK="https://www.mturk.com/mturk/welcome/" MODIFIED="1472600923894" TEXT="https://www.mturk.com/mturk/welcome/"/>
+</node>
+<node CREATED="1472600923894" FOLDED="true" ID="ID_836014091" MODIFIED="1472601058256" TEXT="CrowdSPRING">
+<node CREATED="1472600923894" ID="ID_677226924" MODIFIED="1472601056028">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/CrowdSPRING.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923894" MODIFIED="1472600923894" TEXT="CrowdSPRING es un mercado en l&#xed;nea para el dise&#xf1;o crowdsourced logotipo, dise&#xf1;o web , dise&#xf1;o gr&#xe1;fico , dise&#xf1;o industrial y de servicios de la escritura."/>
+<node CREATED="1472600923894" LINK="http://www.crowdspring.com/" MODIFIED="1472600923894" TEXT="crowdspring.com"/>
+</node>
+<node CREATED="1472600923910" FOLDED="true" ID="ID_1404372629" MODIFIED="1472601041510" TEXT="Elance">
+<node CREATED="1472600923910" ID="ID_1586931261" MODIFIED="1472601039523">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Elance.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923910" MODIFIED="1472600923910" TEXT="Elance, una compa&#xf1;&#xed;a Upwork, es un servicio en l&#xed;nea para encontrar y contratar a los trabajadores independientes que van desde m&#xe1;s de 180 pa&#xed;ses."/>
+<node CREATED="1472600923910" LINK="http://www.elance.com/" MODIFIED="1472600923910" TEXT="elance.com"/>
+</node>
+<node CREATED="1472600923910" FOLDED="true" ID="ID_1787356540" MODIFIED="1472601022679" TEXT="Freelancer">
+<node CREATED="1472600923910" ID="ID_779527826" MODIFIED="1472601020817">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Freelancer.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923910" MODIFIED="1472600923910" TEXT="Profesional independiente es un trabajo independiente, la subcontrataci&#xf3;n, y el mercado de crowdsourcing para contratar a trabajadores independientes y encontrar puestos de trabajo independientes en l&#xed;nea."/>
+<node CREATED="1472600923910" LINK="http://www.freelancer.com/" MODIFIED="1472600923910" TEXT="freelancer.com"/>
+</node>
+<node CREATED="1472600923925" FOLDED="true" ID="ID_254104456" MODIFIED="1472601007260" TEXT="Desk">
+<node CREATED="1472600923925" ID="ID_343530859" MODIFIED="1472601005212">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Desk.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923925" MODIFIED="1472600923925" TEXT="Desk fue adquirida por Salesforce el 21 de septiembre 2011 Desk.com es una aplicaci&#xf3;n en l&#xed;nea de software de escritorio de servicio al cliente y la ayuda de ticket de soporte para peque&#xf1;as empresas y empresas de r&#xe1;pido crecimiento."/>
+<node CREATED="1472600923925" LINK="http://www.desk.com/" MODIFIED="1472600923925" TEXT="desk.com"/>
+</node>
+<node CREATED="1472600923925" FOLDED="true" ID="ID_1861395710" MODIFIED="1472600990371" TEXT="Guru">
+<node CREATED="1472600923925" ID="ID_1785712549" MODIFIED="1472600988179">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Guru.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923925" MODIFIED="1472600923925" TEXT="Guru es un mercado en l&#xed;nea que permite a las empresas a encontrar el apoyo de los trabajadores independientes en todo el mundo."/>
+<node CREATED="1472600923942" LINK="http://www.guru.com/" MODIFIED="1472600923942" TEXT="guru.com"/>
+</node>
+<node CREATED="1472600923944" FOLDED="true" ID="ID_1203323822" MODIFIED="1472600966355" TEXT="DesignCrowd">
+<node CREATED="1472600923945" ID="ID_1053773772" MODIFIED="1472600962409">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/DesignCrowd.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923947" MODIFIED="1472600923947" TEXT="DesignCrowd es un mercado en l&#xed;nea que ofrece el logotipo, p&#xe1;gina web, impresi&#xf3;n y servicios de dise&#xf1;o gr&#xe1;fico."/>
+<node CREATED="1472600923947" LINK="http://www.designcrowd.com/" MODIFIED="1472600923947" TEXT="designcrowd.com"/>
+</node>
+<node CREATED="1472600923947" FOLDED="true" ID="ID_1502106360" MODIFIED="1472600964936" TEXT="Fastrabbit">
+<node CREATED="1472600923947" ID="ID_792985629" MODIFIED="1472600942913">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/fastrabbit.png" height="94" width="381" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472600923947" MODIFIED="1472600923947" TEXT="FASTRABBIT es una empresa din&#xe1;mica Ofrece una amplia gama de servicios de TI que incluye el asesoramiento t&#xe9;cnico, instalaci&#xf3;n, hardware, seguridad, equipos de reparaci&#xf3;n y mantenimiento, dise&#xf1;o de redes y la integraci&#xf3;n de plataformas mixtas, dise&#xf1;o e implementaci&#xf3;n de flujo de trabajo, la formaci&#xf3;n profesional, de alta velocidad/capacidad de almacenamiento y soluciones de servidor."/>
+<node CREATED="1472600923947" LINK="http://www.fastrabbit.net/" MODIFIED="1472600923947" TEXT="fastrabbit.net"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_495524003" MODIFIED="1472606606888" TEXT="Comentarios y Valoraciones">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472601743790" FOLDED="true" ID="ID_1231816963" MODIFIED="1472601973093" TEXT="Yelp">
+<node CREATED="1472601743790" ID="ID_391507653" MODIFIED="1472601971049">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Yelp.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_936263369" MODIFIED="1472139304696" TEXT="Curaci&#xf3;n sociales">
+<node CREATED="1472601743794" MODIFIED="1472601743794" TEXT="Yelp Dinamarca opera una plataforma en l&#xed;nea que conecta a las personas con las empresas locales en la Dinamarca."/>
+<node CREATED="1472601743798" LINK="http://yelp.com/" MODIFIED="1472601743798" TEXT="yelp.com"/>
+</node>
+<node CREATED="1472601743802" FOLDED="true" ID="ID_1044694091" MODIFIED="1472601955591" TEXT="Amazon">
+<node CREATED="1472601743802" MODIFIED="1472601743802" TEXT="&lt;img src=&quot;../Conversation_Prism/Amazon.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472601743806" MODIFIED="1472601743806" TEXT="Amazon.com es un sitio web internacional de comercio electr&#xf3;nico para consumidores, distribuidores y creadores de contenido."/>
+<node CREATED="1472601743806" LINK="http://amazon.com/" MODIFIED="1472601743806" TEXT="amazon.com"/>
+</node>
+<node CREATED="1472601743810" FOLDED="true" ID="ID_1962880558" MODIFIED="1472601938407" TEXT="Glassdoor">
+<node CREATED="1472601743810" ID="ID_1753891905" MODIFIED="1472601936086">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Glassdoor.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472601743814" ID="ID_241488317" MODIFIED="1472601743814" TEXT="Glassdoor es un mercado puestos de trabajo y carrera que est&#xe1; cambiando el modo de b&#xfa;squeda de personas para el empleo y c&#xf3;mo las compa&#xf1;&#xed;as reclutan a los mejores talentos."/>
+<node CREATED="1472601743814" LINK="https://www.glassdoor.com/index.htm/" MODIFIED="1472601743814" TEXT="https://www.glassdoor.com/index.htm/"/>
+</node>
+<node CREATED="1472601743818" FOLDED="true" ID="ID_540555558" MODIFIED="1472601864305" TEXT="Epinions">
+<node CREATED="1472601743818" ID="ID_96668021" MODIFIED="1472601862293">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Epinions.gif" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472601743822" MODIFIED="1472601743822" TEXT="Epinions es una plataforma de comentarios de los consumidores ofreciendo puntos de vista de los consumidores , asesoramiento imparcial , evaluaciones de productos , y recomendaciones personalizadas."/>
+<node CREATED="1472601743822" LINK="http://www.epinions.com/" MODIFIED="1472601743822" TEXT="epinions.com"/>
+</node>
+<node CREATED="1472601743826" FOLDED="true" ID="ID_1014583456" MODIFIED="1472601843710" TEXT="Angie&apos;s List">
+<node CREATED="1472601743826" ID="ID_22531083" MODIFIED="1472601841850">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Angie's List.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472601743830" MODIFIED="1472601743830" TEXT="Lista de Angie es una p&#xe1;gina web que contiene comentarios multitud de fuentes de las empresas locales a trav&#xe9;s de suscripci&#xf3;n."/>
+<node CREATED="1472601743834" LINK="http://www.angieslist.com/" MODIFIED="1472601743834" TEXT="angieslist.com"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_936263369" MODIFIED="1472606992923" TEXT="Agregaci&#xf3;n de Contenidos">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472606613320" FOLDED="true" ID="ID_979316287" MODIFIED="1472606991515" TEXT="Flipboard">
+<node CREATED="1472606613324" ID="ID_1578181423" MODIFIED="1472606987120">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Flipboard.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1471664905454" ID="ID_1446870681" MODIFIED="1472139304696" TEXT="V&#xed;deo">
+<node CREATED="1472606613324" MODIFIED="1472606613324" TEXT="Flipboard es la revista social m&#xe1;s popular del mundo. Da a la gente un &#xfa;nico lugar para mantenerse al tanto de los temas, noticias y eventos."/>
+<node CREATED="1472606613336" LINK="http://www.flipboard.com/" MODIFIED="1472606613336" TEXT="flipboard.com"/>
+</node>
+<node CREATED="1472606613340" FOLDED="true" ID="ID_1382768960" MODIFIED="1472606972466" TEXT="Pinterest">
+<node CREATED="1472606613340" ID="ID_289298376" MODIFIED="1472606970707">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Pinterest.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613344" MODIFIED="1472606613344" TEXT="Pinterest es una herramienta de marcadores visuales para el ahorro y el descubrimiento de ideas creativas."/>
+<node CREATED="1472606613348" LINK="https://pinterest.com/" MODIFIED="1472606613348" TEXT="https://pinterest.com/"/>
+</node>
+<node CREATED="1472606613352" FOLDED="true" ID="ID_494048237" MODIFIED="1472606955889" TEXT="Zite">
+<node CREATED="1472606613352" ID="ID_1450199465" MODIFIED="1472606953698">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Zite.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613356" MODIFIED="1472606613356" TEXT="Zite es una aplicaci&#xf3;n m&#xf3;vil que ofrece revistas favoritas , peri&#xf3;dicos , v&#xed;deos y blogs del usuario en una revista personalizada."/>
+<node CREATED="1472606613364" LINK="http://zite.com/" MODIFIED="1472606613364" TEXT="zite.com"/>
+</node>
+<node CREATED="1472606613368" FOLDED="true" ID="ID_1342833534" MODIFIED="1472606912400" TEXT="RebelMouse">
+<node CREATED="1472606613368" ID="ID_1122906058" MODIFIED="1472606910383">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/RebelMouse.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613368" MODIFIED="1472606613368" TEXT="RebelMouse es la primera plataforma de publicaci&#xf3;n totalmente cableado para el desarrollo social . Activaci&#xf3;n de marcas y editores para crear experiencias de contenido vibrantes."/>
+<node CREATED="1472606613377" LINK="http://rebelmouse.com/" MODIFIED="1472606613377" TEXT="rebelmouse.com"/>
+</node>
+<node CREATED="1472606613379" FOLDED="true" ID="ID_562468549" MODIFIED="1472606889011" TEXT="Alltop">
+<node CREATED="1472606613381" ID="ID_1320101362" MODIFIED="1472606887188">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Alltop.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613384" MODIFIED="1472606613384" TEXT="Alltop categoriza todos los principales titulares de los temas populares en la web."/>
+<node CREATED="1472606613384" LINK="http://alltop.com/" MODIFIED="1472606613384" TEXT="alltop.com"/>
+</node>
+<node CREATED="1472606613384" FOLDED="true" ID="ID_1334441627" MODIFIED="1472606871293" TEXT="Pulse">
+<node CREATED="1472606613389" ID="ID_984843032" MODIFIED="1472606867676">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Pulse.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613389" MODIFIED="1472606613389" TEXT="Adquirida por LinkedIn el 13 de abril 2013 Pulse es una aplicaci&#xf3;n de lectura de noticias que proporciona a los usuarios con noticias de m&#xfa;ltiples canales RSS en una sola interfaz."/>
+</node>
+<node CREATED="1472606613397" FOLDED="true" ID="ID_1179662414" MODIFIED="1472606838609" TEXT="Pearltrees">
+<node CREATED="1472606613397" ID="ID_256958231" MODIFIED="1472606836247">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/pearltrees.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613401" MODIFIED="1472606613401" TEXT="Pearltrees es un lugar para organizar todos sus intereses . Este servicio gratuito le permite organizar , explorar y compartir todo lo que quiera . Guardar p&#xe1;ginas web , archivos, fotos o notas y organizarlas de forma natural. Explora colecciones incre&#xed;bles que se relacionan con sus intereses y suscribirse a sus actualizaciones. Acceder a su cuenta en cualquier momento y compartir cualquier cosa desde el ordenador , el m&#xf3;vil y la tableta ... Haga clic aqu&#xed; para ver el &quot;acerca de Pearltrees &quot; de v&#xed;deo."/>
+<node CREATED="1472606613409" LINK="http://www.pearltrees.com/" MODIFIED="1472606613409" TEXT="pearltrees.com"/>
+</node>
+<node CREATED="1472606613413" FOLDED="true" ID="ID_1346468319" MODIFIED="1472606823221" TEXT="Paper.li">
+<node CREATED="1472606613413" ID="ID_131526015" MODIFIED="1472606690169">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Paperli.jpg" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613417" MODIFIED="1472606613417" TEXT="Paper.li es un servicio para compartir contenidos."/>
+<node CREATED="1472606613417" LINK="http://paper.li/" MODIFIED="1472606613417" TEXT="paper.li"/>
+</node>
+<node CREATED="1472606613417" FOLDED="true" ID="ID_262569373" MODIFIED="1472606673428" TEXT="Scoop.it">
+<node CREATED="1472606613421" ID="ID_551662457" MODIFIED="1472606671320">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Scoopit.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613423" MODIFIED="1472606613423" TEXT="Scoop.it ayuda a millones de profesionales y comerciantes de desarrollar su visibilidad en l&#xed;nea a trav&#xe9;s de contenido de curaci&#xf3;n y comercializaci&#xf3;n de contenidos."/>
+<node CREATED="1472606613427" LINK="http://scoop.it/" MODIFIED="1472606613427" TEXT="scoop.it"/>
+</node>
+<node CREATED="1472606613431" FOLDED="true" ID="ID_686661410" MODIFIED="1472606653238" TEXT="Feedly">
+<node CREATED="1472606613431" ID="ID_945928635" MODIFIED="1472606650708">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Feedly.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613431" MODIFIED="1472606613431" TEXT="Feedly es una aplicaci&#xf3;n de agregador de noticias que recopila noticias se alimenta de fuentes en l&#xed;nea para los usuarios personalizar y compartir con los amigos."/>
+<node CREATED="1472606613439" LINK="http://www.feedly.com/" MODIFIED="1472606613439" TEXT="feedly.com"/>
+</node>
+<node CREATED="1472606613439" FOLDED="true" ID="ID_140480387" MODIFIED="1472606635333" TEXT="Fancy">
+<node CREATED="1472606613439" ID="ID_1454995914" MODIFIED="1472606633250">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="../Conversation_Prism/Fancy.png" height="40" width="40" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1472606613443" MODIFIED="1472606613443" TEXT="Fantas&#xed;a es una tienda web para compartir fotos sociales y aplicaci&#xf3;n m&#xf3;vil creada por Jos&#xe9; Einhorn."/>
+<node CREATED="1472606613447" LINK="http://fancy.com/" MODIFIED="1472606613447" TEXT="fancy.com"/>
+</node>
+</node>
+<node CREATED="1471664905454" FOLDED="true" ID="ID_1446870681" MODIFIED="1472608897164" TEXT="V&#xed;deo">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472608841978" MODIFIED="1472608841978" TEXT="Metacafe">
+<node CREATED="1472608841978" MODIFIED="1472608841978" TEXT="&lt;img src=&quot;../Conversation_Prism/Metacafe.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608841994" MODIFIED="1472608841994" TEXT="Metacafe es un sitio web proporciona cortos de entretenimiento de v&#xed;deo en pel&#xed;culas, videojuegos , deportes, m&#xfa;sica y televisi&#xf3;n."/>
+<node CREATED="1472608841994" LINK="http://metacafe.com/" MODIFIED="1472608841994" TEXT="metacafe.com"/>
+</node>
+<node CREATED="1472608841994" MODIFIED="1472608841994" TEXT="Socialcam">
+<node CREATED="1472608841994" MODIFIED="1472608841994" TEXT="&lt;img src=&quot;../Conversation_Prism/Socialcam.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="Socialcam es una aplicaci&#xf3;n m&#xf3;vil para Android y el iPhone que permite a los usuarios capturar, editar, compartir y ver videos en l&#xed;nea."/>
+<node CREATED="1472608842009" LINK="http://socialcam.com/" MODIFIED="1472608842009" TEXT="socialcam.com"/>
+</node>
+<node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="Blip">
+<node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="&lt;img src=&quot;../Conversation_Prism/Blip.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="Adquirida por Blip es una plataforma de medios en l&#xed;nea que proporciona a sus usuarios el acceso a los clips y programas relacionados con los medios de comunicaci&#xf3;n y de entretenimiento de v&#xed;deo."/>
+<node CREATED="1472608842027" LINK="http://blip.com/" MODIFIED="1472608842027" TEXT="blip.com"/>
+</node>
+<node CREATED="1472608842030" MODIFIED="1472608842030" TEXT="Netflix">
+<node CREATED="1472608842032" MODIFIED="1472608842032" TEXT="&lt;img src=&quot;../Conversation_Prism/RebelMouse.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Netflix permite al usuario ver programas de televisi&#xf3;n y pel&#xed;culas en televisores inteligentes, consolas de juegos, PC, Mac, m&#xf3;viles, tabletas y as&#xed; sucesivamente."/>
+<node CREATED="1472608842034" LINK="http://www.netflix.com/" MODIFIED="1472608842034" TEXT="netflix.com"/>
+</node>
+<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Vevo">
+<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="&lt;img src=&quot;../Conversation_Prism/Vevo.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Vevo is an all-premium music video and entertainment platform."/>
+<node CREATED="1472608842034" LINK="http://vevo.com/" MODIFIED="1472608842034" TEXT="vevo.com"/>
+</node>
+<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Hulu">
+<node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="&lt;img src=&quot;../Conversation_Prism/Hulu.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="Hulu es una oferta de servicios de v&#xed;deo en l&#xed;nea golpe&#xf3; programas, pel&#xed;culas y documentales a trav&#xe9;s de su p&#xe1;gina web, Hulu.com y otros sitios de destino."/>
+<node CREATED="1472608842050" LINK="http://www.hulu.com/" MODIFIED="1472608842050" TEXT="hulu.com"/>
+</node>
+<node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="YouTube">
+<node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="&lt;img src=&quot;../Conversation_Prism/YouTube.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="YouTube, una plataforma de intercambio de videos, permite a los usuarios subir, ver y compartir v&#xed;deos, incluidos los clips de pel&#xed;cula y de m&#xfa;sica y contenidos no profesionales."/>
+<node CREATED="1472608842066" LINK="http://www.youtube.com/" MODIFIED="1472608842066" TEXT="youtube.com"/>
+</node>
+<node CREATED="1472608842066" MODIFIED="1472608842066" TEXT="Viddy">
+<node CREATED="1472608842066" MODIFIED="1472608842066" TEXT="&lt;img src=&quot;../Conversation_Prism/Viddy.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842066" MODIFIED="1472608842066" TEXT="Viddy es una aplicaci&#xf3;n de video social que permite a sus usuarios capturar , editar y compartir v&#xed;deos , fotograf&#xed;as y collages con amigos."/>
+<node CREATED="1472608842081" LINK="http://www.viddy.com/" MODIFIED="1472608842081" TEXT="viddy.com"/>
+</node>
+<node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="Vine">
+<node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="&lt;img src=&quot;../Conversation_Prism/Vine.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842081" ID="ID_453720581" MODIFIED="1472608854991" TEXT="Vine es una plataforma en l&#xed;nea que permite a los usuarios crear clips de v&#xed;deo en bucle cortas para el amigo y la familia."/>
+<node CREATED="1472608842081" LINK="https://vine.co/" MODIFIED="1472608842081" TEXT="https://vine.co/"/>
+</node>
+<node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="Vimeo">
+<node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="&lt;img src=&quot;../Conversation_Prism/Vimeo.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842097" MODIFIED="1472608842097" TEXT="Vimeo es una plataforma de intercambio de v&#xed;deo que permite a los usuarios subir, compartir y ver v&#xed;deos de alta definici&#xf3;n."/>
+<node CREATED="1472608842097" LINK="https://vimeo.com/" MODIFIED="1472608842097" TEXT="https://vimeo.com/"/>
+</node>
+<node CREATED="1472608842097" MODIFIED="1472608842097" TEXT="Funny Or Die">
+<node CREATED="1472608842097" ID="ID_411760532" MODIFIED="1472608842097" TEXT="&lt;img src=&quot;../Conversation_Prism/Funny Or Die.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
+<node CREATED="1472608842097" MODIFIED="1472608842097" TEXT="Funny Or Die es un sitio web de v&#xed;deo de la comedia que mantiene la calidad del contenido generado por el usuario, manteniendo s&#xf3;lo los v&#xed;deos con altos &#xed;ndices de audiencia."/>
+<node CREATED="1472608842113" LINK="http://funnyordie.com/" MODIFIED="1472608842113" TEXT="funnyordie.com"/>
+</node>
 </node>
 <node CREATED="1471664905454" ID="ID_930264341" MODIFIED="1472139304696" TEXT="Contenido / Documentos">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
@@ -1990,7 +2780,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471711280886" FOLDED="true" ID="ID_1301831990" MODIFIED="1472139961349" POSITION="right" STYLE="bubble" TEXT="Influencia de las Redes Sociales en la Guerra de IV Generaci&#xf3;n">
+<node CREATED="1471711280886" FOLDED="true" ID="ID_1301831990" MODIFIED="1472590507737" POSITION="right" STYLE="bubble" TEXT="Influencia de las Redes Sociales en la Guerra de IV Generaci&#xf3;n">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <cloud COLOR="#cccccc"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
@@ -2054,7 +2844,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471713079597" FOLDED="true" ID="ID_845704914" MODIFIED="1472139324466" TEXT="Laboratorios de Guerra">
+<node CREATED="1471713079597" FOLDED="true" ID="ID_845704914" MODIFIED="1472589939184" TEXT="Laboratorios de Guerra">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471713127877" ID="ID_1270307830" MODIFIED="1472139304117" TEXT="Estan conformados por equipos interdisciplinarios,  provenientes de  diferentes &#xe1;reas del conocimiento entre las que se encuentran: psic&#xf3;logos de la conducta, psicoanalistas, publicistas, encuestadores, soci&#xf3;logos sociales, ling&#xfc;istas, semi&#xf3;logos, pol&#xed;ticos, esp&#xed;as, antrop&#xf3;logos,  periodistas tarifados, expertos en inform&#xe1;tica, hackers, economistas,  entre otras. se pudiese  afirmar que los cuarteles de esta  guerra  est&#xe1;n en los medios de informaci&#xf3;n y no en los partidos pol&#xed;ticos que perdieron su funci&#xf3;n hist&#xf3;rica de conducir y decidir  sobre la pol&#xed;tica  Venezolana.">
@@ -2764,6 +3554,14 @@
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
+</node>
+</node>
+<node CREATED="1472590395950" FOLDED="true" ID="ID_1374157229" MODIFIED="1472590501290" STYLE="bubble" TEXT="ZunZuneo">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
+<node CREATED="1472590455228" ID="ID_1509087950" MODIFIED="1472590481561" STYLE="bubble" TEXT="El proyecto ZunZuneo. Tambi&#xe9;n conocido como el &#x201c;Twitter cubano&#x201d;. Proyecto que bajo la apariencia de una red social inocente, encubri&#xf3; una operaci&#xf3;n secreta financiada y dirigida por la Agencia Internacional para el Desarrollo (USAID), que emple&#xf3; empresas de fachada constituidas en secreto y financiamiento desde bancos extranjeros a trav&#xe9;s de las nuevas tecnolog&#xed;as (v&#xed;a tel&#xe9;fonos celulares y redes sociales), cuyo prop&#xf3;sito consisti&#xf3; en crear situaciones de desestabilizaci&#xf3;n para provocar cambios en el ordenamiento pol&#xed;tico cubano.">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
 </node>
