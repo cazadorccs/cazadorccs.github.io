@@ -12,17 +12,18 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471646167546" ID="ID_516913495" MODIFIED="1472637192181" POSITION="right" STYLE="bubble">
+<node CREATED="1471646167546" FOLDED="true" ID="ID_516913495" MODIFIED="1472679132163" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: left">
-      Medios de Comunicaci&#243;n Sociales &#243; Social Media
+      Medios de Comunicaci&#243;n Sociales o Social Media
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <cloud COLOR="#cccccc"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
@@ -94,7 +95,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471648537722" ID="ID_784235881" MODIFIED="1472637196379" TEXT="Clasificaciones Emp&#xed;ricas">
+<node CREATED="1471648537722" FOLDED="true" ID="ID_784235881" MODIFIED="1472648763509" TEXT="Clasificaciones Emp&#xed;ricas">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471652119615" FOLDED="true" ID="ID_1643476601" MODIFIED="1472139324799" TEXT="Jan H. Kietzmann, Kristopher Hermkens, Ian P. McCarthy y Bruno S. Silvestre presentar en el a&#xf1;o 2011 un marco que define los medios sociales mediante el uso de Siete Bloques Funcionales:">
@@ -157,7 +158,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471659992565" ID="ID_1736605529" MODIFIED="1472637199808" TEXT="Prisma de Conversaci&#xf3;n">
+<node CREATED="1471659992565" FOLDED="true" ID="ID_1736605529" MODIFIED="1472648762102" TEXT="Prisma de Conversaci&#xf3;n">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471660042671" FOLDED="true" HGAP="62" ID="ID_1924922582" MODIFIED="1472139324796" TEXT="Definici&#xf3;n" VSHIFT="149">
@@ -272,25 +273,24 @@
 </node>
 </node>
 </node>
-<node CREATED="1471664764729" HGAP="73" ID="ID_1807604043" MODIFIED="1472638560982" TEXT="Bloques">
+<node CREATED="1471664764729" FOLDED="true" HGAP="73" ID="ID_1807604043" MODIFIED="1472648760677" TEXT="Bloques">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1471664905454" ID="ID_490886494" MODIFIED="1472638565174" TEXT="Mercadeo Social">
+<node CREATED="1471664905454" FOLDED="true" ID="ID_490886494" MODIFIED="1472648753439" TEXT="Mercadeo Social">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1472171877287" ID="ID_978815892" MODIFIED="1472638567486" TEXT="Groupon">
-<node CREATED="1472171877290" ID="ID_755639577" MODIFIED="1472638735188">
+<node CREATED="1472171877287" FOLDED="true" ID="ID_978815892" MODIFIED="1472648751228" TEXT="Groupon">
+<node CREATED="1472171877290" ID="ID_755639577" MODIFIED="1472648747990">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <img src="/Conversation_Prism/Groupon.png" height="40" width="40" />
+      <img src="../Conversation_Prism/Groupon.png" height="40" width="40" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1472171877292" MODIFIED="1472171877292" TEXT="Groupon es un sitio web de ofertas del d&#xed;a que presenta cupones de descuentos utilizables en compa&#xf1;&#xed;as locales y nacionales."/>
 <node CREATED="1472171877297" ID="ID_1122384104" LINK="https://www.groupon.com/" MODIFIED="1472171877297" TEXT="https://www.groupon.com/"/>
@@ -1757,8 +1757,7 @@
       <img src="../JESS3_BrianSolis_ConversationPrism4.1.jpg" height="370" width="340" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2255,7 +2254,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1452957134509" HGAP="25" ID="ID_1565143888" MODIFIED="1472139304246" POSITION="left" STYLE="bubble" VSHIFT="-75">
+<node BACKGROUND_COLOR="#00ff00" CREATED="1452957134509" HGAP="25" ID="ID_1565143888" MODIFIED="1472678410561" POSITION="left" STYLE="bubble" VSHIFT="-75">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2270,7 +2269,7 @@
 <cloud COLOR="#33ff00"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
-<node CREATED="1471742701094" FOLDED="true" ID="ID_1775387500" MODIFIED="1472140032627" POSITION="right" STYLE="bubble" TEXT="El Gobierno Venezolano en las Redes Sociales">
+<node CREATED="1471742701094" FOLDED="true" ID="ID_1775387500" MODIFIED="1472657229414" POSITION="right" STYLE="bubble" TEXT="El Gobierno Venezolano en las Redes Sociales">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <cloud COLOR="#cccccc"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
@@ -2488,20 +2487,20 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471756570031" FOLDED="true" ID="ID_850905136" MODIFIED="1472139324740" TEXT="Ministerio del Poder Popular para Educaci&#xf3;n Universitaria, Ciencia y Tecnolog&#xed;a">
+<node CREATED="1471756570031" FOLDED="true" ID="ID_850905136" MODIFIED="1472657223894" TEXT="Ministerio del Poder Popular para Educaci&#xf3;n Universitaria, Ciencia y Tecnolog&#xed;a">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1471756585761" FOLDED="true" ID="ID_653624308" MODIFIED="1472139324739" TEXT="Centro Nacional de Desarrollo e Investigaci&#xf3;n en Tecnolog&#xed;as Libres">
+<node CREATED="1471756585761" FOLDED="true" ID="ID_653624308" MODIFIED="1472657219120" TEXT="Centro Nacional de Desarrollo e Investigaci&#xf3;n en Tecnolog&#xed;as Libres">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1471756602819" FOLDED="true" ID="ID_782569961" MODIFIED="1472139324738" TEXT="La Red Patria">
+<node CREATED="1471756602819" FOLDED="true" ID="ID_782569961" MODIFIED="1472657217360" TEXT="La Red Patria">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756637450" ID="ID_932670020" MODIFIED="1472139304205" TEXT="Es una iniciativa que busca brindar una plataforma para la interconexi&#xf3;n de los distintos movimientos sociales esparcidos por todo el pa&#xed;s.">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
-<node CREATED="1471756858488" FOLDED="true" ID="ID_666599727" MODIFIED="1472139324738" TEXT="Nido">
+<node CREATED="1471756858488" FOLDED="true" ID="ID_666599727" MODIFIED="1472657214435" TEXT="Nido">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756858492" ID="ID_762893058" MODIFIED="1472139304202" TEXT="Capa de la Red Patria que brinda las herramientas b&#xe1;sicas de una red social para compartir contenido textual y multimedia, realizar convocatorias y participar en foros de discusi&#xf3;n. Nido fue concebido para promover la conexi&#xf3;n de los movimientos sociales promoviendo la interacci&#xf3;n de los participantes en tanto que miembros de un colectivo. Puedes ingresar a Nido como usuario individual y posteriormente debes registrarte como miembro de un colectivo. De este modo tendr&#xe1;s acceso a todas las secciones de Nido y a los otros m&#xf3;dulos de la Red Patria.">
@@ -2509,7 +2508,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471756858500" FOLDED="true" ID="ID_1904743889" MODIFIED="1472139324737" TEXT="Mochuelo">
+<node CREATED="1471756858500" FOLDED="true" ID="ID_1904743889" MODIFIED="1472657212494" TEXT="Mochuelo">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756858504" ID="ID_50396385" MODIFIED="1472139304200" TEXT="Es un Sistema de Alerta Temprana para dispositivos m&#xf3;viles. El sistema de alerta temprana Mochuelo est&#xe1; constituido por dos m&#xf3;dulos. Uno de ellos consiste en una aplicaci&#xf3;n para dispositivo m&#xf3;viles (con sistema operativo Android, versi&#xf3;n mayor a 3.0) que le permite al usuario enviar un reporte o alerta desde su celular. La otra parte consiste en una interfaz web, operada desde una sala situacional, que permite visualizar y discriminar las alertas para la generaci&#xf3;n de reportes.">
@@ -2517,7 +2516,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471756858512" FOLDED="true" ID="ID_565803220" MODIFIED="1472139324736" TEXT="Golondrinas">
+<node CREATED="1471756858512" FOLDED="true" ID="ID_565803220" MODIFIED="1472657208162" TEXT="Golondrinas">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756858516" ID="ID_1045116399" MODIFIED="1472139304198" TEXT="Es un sistema de registro y consulta que permite la sistematizaci&#xf3;n de las actas originadas en asambleas de ciudadanos y ciudadanas del Poder Popular, as&#xed; como la realizaci&#xf3;n de consultas p&#xfa;blicas para impulsar proyectos socio-pol&#xed;ticos, discutir leyes, proponer temas de inter&#xe9;s p&#xfa;blico o simplemente conocer la opini&#xf3;n de un sector o colectivo; cumpliendo as&#xed; con el compromiso de socializar libremente la informaci&#xf3;n. Golondrinas contiene dos secciones principales:">
@@ -2525,7 +2524,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471756858531" FOLDED="true" ID="ID_683786446" MODIFIED="1472139324736" TEXT="C&#xf3;ndor">
+<node CREATED="1471756858531" FOLDED="true" ID="ID_683786446" MODIFIED="1472657205854" TEXT="C&#xf3;ndor">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756858531" ID="ID_1292141758" MODIFIED="1472139304196" TEXT="Es un sistema de monitorizaci&#xf3;n que permite visualizar de forma gr&#xe1;fica la actividad de un conjunto de cuentas de usuario de la red de informaci&#xf3;n abierta Tuiter para su an&#xe1;lisis a partir de ciertas categor&#xed;as tem&#xe1;ticas. El an&#xe1;lisis de comportamiento se realiza mediante el estudio interpretativo de las tendencias tem&#xe1;ticas, n&#xfa;mero de menciones de determinadas palabras y/o etiquetas y cantidad de tuits (mensajes) emitidos por parte de un conjunto de cuentas de usuario de Tuiter durante un per&#xed;odo de tiempo determinado.">
@@ -2577,7 +2576,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471756858568" FOLDED="true" ID="ID_1837119483" MODIFIED="1472139324732" TEXT="Cardenalito">
+<node CREATED="1471756858568" FOLDED="true" ID="ID_1837119483" MODIFIED="1472657203134" TEXT="Cardenalito">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756858570" ID="ID_156050461" MODIFIED="1472139304182" TEXT="Es una red de informaci&#xf3;n abierta que permite publicar mensajes de texto (sin limitaci&#xf3;n de caracteres) y contenido multimedia. Cardenalito busca promover el intercambio de informaci&#xf3;n entre los colectivos sociales, sobre la agenda del Poder Popular y los acontecimientos de relevancia pol&#xed;tica, econ&#xf3;mica, cient&#xed;fica, social, deportiva y cultural de la patria venezolana.">
@@ -2597,7 +2596,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471756858591" FOLDED="true" ID="ID_1665921850" MODIFIED="1472139324731" TEXT="Colibr&#xed;">
+<node CREATED="1471756858591" FOLDED="true" ID="ID_1665921850" MODIFIED="1472657199082" TEXT="Colibr&#xed;">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471756858591" ID="ID_1618928518" MODIFIED="1472139304174" TEXT="Es una aplicaci&#xf3;n multiplataforma de Mensajer&#xed;a Instant&#xe1;nea en protocolo XMPP que puede ser instalada en dispositivos m&#xf3;viles con tecnolog&#xed;a Android, Computadores Personales con sistema de operaci&#xf3;n Canaima o Debian-Linux y muchos otros. Su objetivo es permitir la comunicaci&#xf3;n directa entre los colectivos revolucionarios venezolanos, mediante el env&#xed;o y recepci&#xf3;n de mensajes de texto.">
@@ -2612,10 +2611,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1471755213333" FOLDED="true" ID="ID_500073910" MODIFIED="1472139324731" TEXT="Ejemplos a Seguir">
+<node CREATED="1471755213333" FOLDED="true" ID="ID_500073910" MODIFIED="1472651698586" TEXT="Ejemplos a Seguir">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1471755274155" FOLDED="true" ID="ID_1176180494" MODIFIED="1472139324729" TEXT="Implementar una Gu&#xed;a de usos y estilo en las Redes Sociales como la del Gobierno Vasco">
+<node CREATED="1471755274155" FOLDED="true" ID="ID_1176180494" MODIFIED="1472651691265" TEXT="Implementar una Gu&#xed;a de usos y estilo en las Redes Sociales como la del Gobierno Vasco">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471755351220" ID="ID_667280698" MODIFIED="1472139304170" TEXT="introducci&#xf3;n">
@@ -2656,7 +2655,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471758979893" FOLDED="true" ID="ID_1354705932" MODIFIED="1472139324475" TEXT="Manifies.to">
+<node CREATED="1471758979893" FOLDED="true" ID="ID_1354705932" MODIFIED="1472649888487" TEXT="Manifies.to">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471759021564" ID="ID_361443812" MODIFIED="1472139304168" TEXT="Adriana Cruz y Javier Chac&#xf3;n son promotores e integrantes de Bravo Sur un movimiento pol&#xed;tico revolucionario que se desarrolla en Caracas, Aragua y Carabobo ">
@@ -3797,6 +3796,11 @@
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
+</node>
+<node BACKGROUND_COLOR="#33ff00" CREATED="1472678009930" ID="ID_922019322" MODIFIED="1472678445570" POSITION="left" STYLE="bubble" TEXT="@cazadorccs">
+<edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
+<cloud COLOR="#00ff66"/>
+<font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
 </map>
