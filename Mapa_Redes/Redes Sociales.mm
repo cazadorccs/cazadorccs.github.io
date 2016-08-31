@@ -12,7 +12,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471646167546" ID="ID_516913495" MODIFIED="1472683573838" POSITION="right" STYLE="bubble">
+<node CREATED="1471646167546" FOLDED="true" ID="ID_516913495" MODIFIED="1472686929136" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,8 +22,7 @@
       Medios de Comunicaci&#243;n Sociales o Social Media
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <cloud COLOR="#cccccc"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
@@ -95,7 +94,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471648537722" ID="ID_784235881" MODIFIED="1472683578300" TEXT="Clasificaciones Emp&#xed;ricas">
+<node CREATED="1471648537722" FOLDED="true" ID="ID_784235881" MODIFIED="1472686926712" TEXT="Clasificaciones Emp&#xed;ricas">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471652119615" FOLDED="true" ID="ID_1643476601" MODIFIED="1472139324799" TEXT="Jan H. Kietzmann, Kristopher Hermkens, Ian P. McCarthy y Bruno S. Silvestre presentar en el a&#xf1;o 2011 un marco que define los medios sociales mediante el uso de Siete Bloques Funcionales:">
@@ -158,7 +157,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471659992565" ID="ID_1736605529" MODIFIED="1472683581478" TEXT="Prisma de Conversaci&#xf3;n">
+<node CREATED="1471659992565" FOLDED="true" ID="ID_1736605529" MODIFIED="1472686925140" TEXT="Prisma de Conversaci&#xf3;n">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471660042671" FOLDED="true" HGAP="62" ID="ID_1924922582" MODIFIED="1472139324796" TEXT="Definici&#xf3;n" VSHIFT="149">
@@ -1747,7 +1746,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471923778130" HGAP="51" ID="ID_564924553" MODIFIED="1472684675532" VSHIFT="41">
+<node CREATED="1471923778130" HGAP="51" ID="ID_564924553" MODIFIED="1472686904808" VSHIFT="41">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1757,8 +1756,7 @@
       <img src="JESS3_BrianSolis_ConversationPrism4.1.jpg" height="370" width="340" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1768,7 +1766,8 @@
       o
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
