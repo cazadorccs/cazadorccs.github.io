@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#009999" COLOR="#000000" CREATED="1471539327381" ID="ID_388902546" MODIFIED="1472139324806" STYLE="bubble" TEXT="Redes Sociales">
+<node BACKGROUND_COLOR="#009999" COLOR="#000000" CREATED="1471539327381" ID="ID_388902546" MODIFIED="1472687239284" STYLE="bubble" TEXT="Redes Sociales">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471624114992" FOLDED="true" ID="ID_1485235939" MODIFIED="1472139324805" POSITION="right" STYLE="bubble" TEXT="Definici&#xf3;n">
@@ -12,7 +12,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471646167546" ID="ID_516913495" MODIFIED="1472683573838" POSITION="right" STYLE="bubble">
+<node CREATED="1471646167546" FOLDED="true" ID="ID_516913495" MODIFIED="1472686929136" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,8 +22,7 @@
       Medios de Comunicaci&#243;n Sociales o Social Media
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <cloud COLOR="#cccccc"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
@@ -95,7 +94,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471648537722" ID="ID_784235881" MODIFIED="1472683578300" TEXT="Clasificaciones Emp&#xed;ricas">
+<node CREATED="1471648537722" FOLDED="true" ID="ID_784235881" MODIFIED="1472686926712" TEXT="Clasificaciones Emp&#xed;ricas">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471652119615" FOLDED="true" ID="ID_1643476601" MODIFIED="1472139324799" TEXT="Jan H. Kietzmann, Kristopher Hermkens, Ian P. McCarthy y Bruno S. Silvestre presentar en el a&#xf1;o 2011 un marco que define los medios sociales mediante el uso de Siete Bloques Funcionales:">
@@ -158,7 +157,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1471659992565" ID="ID_1736605529" MODIFIED="1472683581478" TEXT="Prisma de Conversaci&#xf3;n">
+<node CREATED="1471659992565" FOLDED="true" ID="ID_1736605529" MODIFIED="1472686925140" TEXT="Prisma de Conversaci&#xf3;n">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 <node CREATED="1471660042671" FOLDED="true" HGAP="62" ID="ID_1924922582" MODIFIED="1472139324796" TEXT="Definici&#xf3;n" VSHIFT="149">
@@ -1634,57 +1633,57 @@
 <node CREATED="1471664905454" FOLDED="true" ID="ID_1446870681" MODIFIED="1472637451579" TEXT="V&#xed;deo">
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
-<node CREATED="1472608841978" MODIFIED="1472608841978" TEXT="Metacafe">
+<node CREATED="1472608841978" FOLDED="true" ID="ID_1518667172" MODIFIED="1472687232824" TEXT="Metacafe">
 <node CREATED="1472608841978" MODIFIED="1472608841978" TEXT="&lt;img src=&quot;../Conversation_Prism/Metacafe.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608841994" MODIFIED="1472608841994" TEXT="Metacafe es un sitio web proporciona cortos de entretenimiento de v&#xed;deo en pel&#xed;culas, videojuegos , deportes, m&#xfa;sica y televisi&#xf3;n."/>
 <node CREATED="1472608841994" LINK="http://metacafe.com/" MODIFIED="1472608841994" TEXT="metacafe.com"/>
 </node>
-<node CREATED="1472608841994" MODIFIED="1472608841994" TEXT="Socialcam">
+<node CREATED="1472608841994" FOLDED="true" ID="ID_1870879355" MODIFIED="1472687232825" TEXT="Socialcam">
 <node CREATED="1472608841994" MODIFIED="1472608841994" TEXT="&lt;img src=&quot;../Conversation_Prism/Socialcam.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="Socialcam es una aplicaci&#xf3;n m&#xf3;vil para Android y el iPhone que permite a los usuarios capturar, editar, compartir y ver videos en l&#xed;nea."/>
 <node CREATED="1472608842009" LINK="http://socialcam.com/" MODIFIED="1472608842009" TEXT="socialcam.com"/>
 </node>
-<node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="Blip">
+<node CREATED="1472608842009" FOLDED="true" ID="ID_339815632" MODIFIED="1472687232825" TEXT="Blip">
 <node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="&lt;img src=&quot;../Conversation_Prism/Blip.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842009" MODIFIED="1472608842009" TEXT="Adquirida por Blip es una plataforma de medios en l&#xed;nea que proporciona a sus usuarios el acceso a los clips y programas relacionados con los medios de comunicaci&#xf3;n y de entretenimiento de v&#xed;deo."/>
 <node CREATED="1472608842027" LINK="http://blip.com/" MODIFIED="1472608842027" TEXT="blip.com"/>
 </node>
-<node CREATED="1472608842030" MODIFIED="1472608842030" TEXT="Netflix">
+<node CREATED="1472608842030" FOLDED="true" ID="ID_1649407350" MODIFIED="1472687232825" TEXT="Netflix">
 <node CREATED="1472608842032" MODIFIED="1472608842032" TEXT="&lt;img src=&quot;../Conversation_Prism/RebelMouse.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Netflix permite al usuario ver programas de televisi&#xf3;n y pel&#xed;culas en televisores inteligentes, consolas de juegos, PC, Mac, m&#xf3;viles, tabletas y as&#xed; sucesivamente."/>
 <node CREATED="1472608842034" LINK="http://www.netflix.com/" MODIFIED="1472608842034" TEXT="netflix.com"/>
 </node>
-<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Vevo">
+<node CREATED="1472608842034" FOLDED="true" ID="ID_840805303" MODIFIED="1472687232825" TEXT="Vevo">
 <node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="&lt;img src=&quot;../Conversation_Prism/Vevo.jpg&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Vevo is an all-premium music video and entertainment platform."/>
 <node CREATED="1472608842034" LINK="http://vevo.com/" MODIFIED="1472608842034" TEXT="vevo.com"/>
 </node>
-<node CREATED="1472608842034" MODIFIED="1472608842034" TEXT="Hulu">
+<node CREATED="1472608842034" FOLDED="true" ID="ID_1990169831" MODIFIED="1472687232826" TEXT="Hulu">
 <node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="&lt;img src=&quot;../Conversation_Prism/Hulu.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="Hulu es una oferta de servicios de v&#xed;deo en l&#xed;nea golpe&#xf3; programas, pel&#xed;culas y documentales a trav&#xe9;s de su p&#xe1;gina web, Hulu.com y otros sitios de destino."/>
 <node CREATED="1472608842050" LINK="http://www.hulu.com/" MODIFIED="1472608842050" TEXT="hulu.com"/>
 </node>
-<node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="YouTube">
+<node CREATED="1472608842050" FOLDED="true" ID="ID_273003866" MODIFIED="1472687232826" TEXT="YouTube">
 <node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="&lt;img src=&quot;../Conversation_Prism/YouTube.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842050" MODIFIED="1472608842050" TEXT="YouTube, una plataforma de intercambio de videos, permite a los usuarios subir, ver y compartir v&#xed;deos, incluidos los clips de pel&#xed;cula y de m&#xfa;sica y contenidos no profesionales."/>
 <node CREATED="1472608842066" LINK="http://www.youtube.com/" MODIFIED="1472608842066" TEXT="youtube.com"/>
 </node>
-<node CREATED="1472608842066" MODIFIED="1472608842066" TEXT="Viddy">
+<node CREATED="1472608842066" FOLDED="true" ID="ID_763743312" MODIFIED="1472687232826" TEXT="Viddy">
 <node CREATED="1472608842066" MODIFIED="1472608842066" TEXT="&lt;img src=&quot;../Conversation_Prism/Viddy.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842066" MODIFIED="1472608842066" TEXT="Viddy es una aplicaci&#xf3;n de video social que permite a sus usuarios capturar , editar y compartir v&#xed;deos , fotograf&#xed;as y collages con amigos."/>
 <node CREATED="1472608842081" LINK="http://www.viddy.com/" MODIFIED="1472608842081" TEXT="viddy.com"/>
 </node>
-<node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="Vine">
+<node CREATED="1472608842081" FOLDED="true" ID="ID_157623000" MODIFIED="1472687232826" TEXT="Vine">
 <node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="&lt;img src=&quot;../Conversation_Prism/Vine.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842081" ID="ID_453720581" MODIFIED="1472608854991" TEXT="Vine es una plataforma en l&#xed;nea que permite a los usuarios crear clips de v&#xed;deo en bucle cortas para el amigo y la familia."/>
 <node CREATED="1472608842081" LINK="https://vine.co/" MODIFIED="1472608842081" TEXT="https://vine.co/"/>
 </node>
-<node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="Vimeo">
+<node CREATED="1472608842081" FOLDED="true" ID="ID_1834464425" MODIFIED="1472687232826" TEXT="Vimeo">
 <node CREATED="1472608842081" MODIFIED="1472608842081" TEXT="&lt;img src=&quot;../Conversation_Prism/Vimeo.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842097" MODIFIED="1472608842097" TEXT="Vimeo es una plataforma de intercambio de v&#xed;deo que permite a los usuarios subir, compartir y ver v&#xed;deos de alta definici&#xf3;n."/>
 <node CREATED="1472608842097" LINK="https://vimeo.com/" MODIFIED="1472608842097" TEXT="https://vimeo.com/"/>
 </node>
-<node CREATED="1472608842097" MODIFIED="1472608842097" TEXT="Funny Or Die">
+<node CREATED="1472608842097" FOLDED="true" ID="ID_1090913292" MODIFIED="1472687232827" TEXT="Funny Or Die">
 <node CREATED="1472608842097" ID="ID_411760532" MODIFIED="1472608842097" TEXT="&lt;img src=&quot;../Conversation_Prism/Funny Or Die.png&quot; height=&quot;40&quot; width=&quot;40&quot;&gt;"/>
 <node CREATED="1472608842097" MODIFIED="1472608842097" TEXT="Funny Or Die es un sitio web de v&#xed;deo de la comedia que mantiene la calidad del contenido generado por el usuario, manteniendo s&#xf3;lo los v&#xed;deos con altos &#xed;ndices de audiencia."/>
 <node CREATED="1472608842113" LINK="http://funnyordie.com/" MODIFIED="1472608842113" TEXT="funnyordie.com"/>
@@ -1747,7 +1746,7 @@
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
 </node>
-<node CREATED="1471923778130" HGAP="51" ID="ID_564924553" MODIFIED="1472686019390" VSHIFT="41">
+<node CREATED="1471923778130" HGAP="51" ID="ID_564924553" MODIFIED="1472686904808" VSHIFT="41">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1757,8 +1756,7 @@
       <img src="JESS3_BrianSolis_ConversationPrism4.1.jpg" height="370" width="340" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1768,7 +1766,8 @@
       o
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#3300ff" STYLE="sharp_bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="Arial Black" SIZE="14"/>
 </node>
