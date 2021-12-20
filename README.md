@@ -1,4 +1,4 @@
 Proyectos 
 =========
 
-Ideas y presentaciones
+Ideas y presentaciones.
